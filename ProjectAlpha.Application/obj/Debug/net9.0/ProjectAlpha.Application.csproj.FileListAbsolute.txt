@@ -1,0 +1,15 @@
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\bin\Debug\net9.0\ProjectAlpha.Application.deps.json
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\bin\Debug\net9.0\ProjectAlpha.Application.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\bin\Debug\net9.0\ProjectAlpha.Application.pdb
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\obj\Debug\net9.0\ProjectAlpha.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\obj\Debug\net9.0\ProjectAlpha.Application.AssemblyInfoInputs.cache
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\obj\Debug\net9.0\ProjectAlpha.Application.AssemblyInfo.cs
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\obj\Debug\net9.0\ProjectAlpha.Application.csproj.CoreCompileInputs.cache
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\obj\Debug\net9.0\ProjectAlpha.Application.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\obj\Debug\net9.0\refint\ProjectAlpha.Application.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\obj\Debug\net9.0\ProjectAlpha.Application.pdb
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\obj\Debug\net9.0\ref\ProjectAlpha.Application.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\bin\Debug\net9.0\ProjectAlpha.Domain.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\bin\Debug\net9.0\ProjectAlpha.Domain.pdb
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\obj\Debug\net9.0\ProjectAlpha.Application.csproj.AssemblyReference.cache
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Application\obj\Debug\net9.0\ProjectA.7DE07044.Up2Date

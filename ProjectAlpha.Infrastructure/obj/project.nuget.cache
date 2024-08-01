@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IOk6LR3gPPg=",
+  "success": true,
+  "projectFilePath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Infrastructure\\ProjectAlpha.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thenuka Jayarathna\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

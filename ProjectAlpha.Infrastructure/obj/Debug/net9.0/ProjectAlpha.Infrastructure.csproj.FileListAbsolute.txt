@@ -1,0 +1,17 @@
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\bin\Debug\net9.0\ProjectAlpha.Infrastructure.deps.json
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\bin\Debug\net9.0\ProjectAlpha.Infrastructure.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\bin\Debug\net9.0\ProjectAlpha.Infrastructure.pdb
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\obj\Debug\net9.0\ProjectAlpha.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\obj\Debug\net9.0\ProjectAlpha.Infrastructure.AssemblyInfoInputs.cache
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\obj\Debug\net9.0\ProjectAlpha.Infrastructure.AssemblyInfo.cs
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\obj\Debug\net9.0\ProjectAlpha.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\obj\Debug\net9.0\ProjectAlpha.Infrastructure.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\obj\Debug\net9.0\refint\ProjectAlpha.Infrastructure.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\obj\Debug\net9.0\ProjectAlpha.Infrastructure.pdb
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\obj\Debug\net9.0\ref\ProjectAlpha.Infrastructure.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\bin\Debug\net9.0\ProjectAlpha.Application.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\bin\Debug\net9.0\ProjectAlpha.Domain.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\bin\Debug\net9.0\ProjectAlpha.Application.pdb
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\bin\Debug\net9.0\ProjectAlpha.Domain.pdb
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\obj\Debug\net9.0\ProjectAlpha.Infrastructure.csproj.AssemblyReference.cache
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Infrastructure\obj\Debug\net9.0\ProjectA.F4B6837F.Up2Date

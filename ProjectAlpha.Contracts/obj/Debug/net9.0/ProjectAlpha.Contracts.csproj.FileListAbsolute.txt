@@ -1,0 +1,11 @@
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Contracts\bin\Debug\net9.0\ProjectAlpha.Contracts.deps.json
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Contracts\bin\Debug\net9.0\ProjectAlpha.Contracts.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Contracts\bin\Debug\net9.0\ProjectAlpha.Contracts.pdb
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Contracts\obj\Debug\net9.0\ProjectAlpha.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Contracts\obj\Debug\net9.0\ProjectAlpha.Contracts.AssemblyInfoInputs.cache
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Contracts\obj\Debug\net9.0\ProjectAlpha.Contracts.AssemblyInfo.cs
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Contracts\obj\Debug\net9.0\ProjectAlpha.Contracts.csproj.CoreCompileInputs.cache
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Contracts\obj\Debug\net9.0\ProjectAlpha.Contracts.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Contracts\obj\Debug\net9.0\refint\ProjectAlpha.Contracts.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Contracts\obj\Debug\net9.0\ProjectAlpha.Contracts.pdb
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Contracts\obj\Debug\net9.0\ref\ProjectAlpha.Contracts.dll

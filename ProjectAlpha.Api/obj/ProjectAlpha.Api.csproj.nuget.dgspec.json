@@ -1,0 +1,345 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Api\\ProjectAlpha.Api.csproj": {}
+  },
+  "projects": {
+    "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Api\\ProjectAlpha.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Api\\ProjectAlpha.Api.csproj",
+        "projectName": "ProjectAlpha.Api",
+        "projectPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Api\\ProjectAlpha.Api.csproj",
+        "packagesPath": "C:\\Users\\Thenuka Jayarathna\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Thenuka Jayarathna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Application\\ProjectAlpha.Application.csproj": {
+                "projectPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Application\\ProjectAlpha.Application.csproj"
+              },
+              "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Contracts\\ProjectAlpha.Contracts.csproj": {
+                "projectPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Contracts\\ProjectAlpha.Contracts.csproj"
+              },
+              "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Infrastructure\\ProjectAlpha.Infrastructure.csproj": {
+                "projectPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Infrastructure\\ProjectAlpha.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.6.24328.19/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Application\\ProjectAlpha.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Application\\ProjectAlpha.Application.csproj",
+        "projectName": "ProjectAlpha.Application",
+        "projectPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Application\\ProjectAlpha.Application.csproj",
+        "packagesPath": "C:\\Users\\Thenuka Jayarathna\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Thenuka Jayarathna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Domain\\ProjectAlpha.Domain.csproj": {
+                "projectPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Domain\\ProjectAlpha.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.6.24328.19/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Contracts\\ProjectAlpha.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Contracts\\ProjectAlpha.Contracts.csproj",
+        "projectName": "ProjectAlpha.Contracts",
+        "projectPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Contracts\\ProjectAlpha.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Thenuka Jayarathna\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Thenuka Jayarathna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.6.24328.19/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Domain\\ProjectAlpha.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Domain\\ProjectAlpha.Domain.csproj",
+        "projectName": "ProjectAlpha.Domain",
+        "projectPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Domain\\ProjectAlpha.Domain.csproj",
+        "packagesPath": "C:\\Users\\Thenuka Jayarathna\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Thenuka Jayarathna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.6.24328.19/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Infrastructure\\ProjectAlpha.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Infrastructure\\ProjectAlpha.Infrastructure.csproj",
+        "projectName": "ProjectAlpha.Infrastructure",
+        "projectPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Infrastructure\\ProjectAlpha.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Thenuka Jayarathna\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Thenuka Jayarathna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Application\\ProjectAlpha.Application.csproj": {
+                "projectPath": "E:\\Programming\\Clean Architecture\\Project\\ProjectAlpha\\ProjectAlpha.Application\\ProjectAlpha.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.6.24328.19/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

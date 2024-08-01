@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectAlpha.Contracts\ProjectAlpha.Contracts.csproj" />
+    <ProjectReference Include="..\ProjectAlpha.Application\ProjectAlpha.Application.csproj" />
+    <ProjectReference Include="..\ProjectAlpha.Infrastructure\ProjectAlpha.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

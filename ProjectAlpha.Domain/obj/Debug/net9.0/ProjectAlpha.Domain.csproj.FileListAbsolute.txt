@@ -1,0 +1,11 @@
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Domain\bin\Debug\net9.0\ProjectAlpha.Domain.deps.json
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Domain\bin\Debug\net9.0\ProjectAlpha.Domain.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Domain\bin\Debug\net9.0\ProjectAlpha.Domain.pdb
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Domain\obj\Debug\net9.0\ProjectAlpha.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Domain\obj\Debug\net9.0\ProjectAlpha.Domain.AssemblyInfoInputs.cache
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Domain\obj\Debug\net9.0\ProjectAlpha.Domain.AssemblyInfo.cs
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Domain\obj\Debug\net9.0\ProjectAlpha.Domain.csproj.CoreCompileInputs.cache
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Domain\obj\Debug\net9.0\ProjectAlpha.Domain.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Domain\obj\Debug\net9.0\refint\ProjectAlpha.Domain.dll
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Domain\obj\Debug\net9.0\ProjectAlpha.Domain.pdb
+E:\Programming\Clean Architecture\Project\ProjectAlpha\ProjectAlpha.Domain\obj\Debug\net9.0\ref\ProjectAlpha.Domain.dll
